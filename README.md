@@ -1,5 +1,11 @@
 # MaterialPropCodeGenPrj
-unity material properties code generate project
 
-1 Select a shader in Unity Project
-2 click PowerUtilities/CodeGeneator/CreateUIMaterialCode(from Assets Shader)
+Features 
+1 unity material properties code generate project
+
+    Select a shader in Unity Project
+    click PowerUtilities/CodeGeneator/CreateUIMaterialCode(from Assets Shader)
+    
+2 ChildrenSortingLayerControl(MonoBehaviour)
+    control children's sortingLayer(sortingOrder) (ugui canvas,particleSystem,spriteRenderer)
+
