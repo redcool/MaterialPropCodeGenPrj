@@ -1,5 +1,5 @@
 #if UNITY_EDITOR
-namespace PowerUtilities
+namespace PowerUtilities.Min
 {
     using System.Collections;
     using System.Collections.Generic;
@@ -287,7 +287,7 @@ namespace PowerUtilities
         public const string CODE_TEMPLATE = @"
 using UnityEngine;
 
-namespace PowerUtilities
+namespace PowerUtilities.Min
 {{
     /// <summary>
     /// generated code by UIMaterialPropCodeGen

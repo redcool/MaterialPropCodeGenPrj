@@ -1,4 +1,4 @@
-namespace PowerUtilities
+namespace PowerUtilities.Min
 {
     using System;
 #if UNITY_EDITOR

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using System.IO;
 using UnityEngine;
 
-namespace PowerUtilities
+namespace PowerUtilities.Min
 {
     public static class EditorStylesEx
     {

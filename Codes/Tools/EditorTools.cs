@@ -1,5 +1,5 @@
 ﻿#if UNITY_EDITOR
-namespace PowerUtilities
+namespace PowerUtilities.Min
 {
     using UnityEngine;
     using System.Collections;

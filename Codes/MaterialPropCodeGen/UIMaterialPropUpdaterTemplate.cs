@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace PowerUtilities
+namespace PowerUtilities.Min
 {
     [ExecuteInEditMode]
     public class UIMaterialPropUpdaterTemplate : BaseUIMaterialPropUpdater
