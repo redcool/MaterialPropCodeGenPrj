@@ -10,7 +10,7 @@ using Object = UnityEngine.Object;
 using UnityEngine.SceneManagement;
 using System.IO;
 
-namespace PowerUtilities.Min
+namespace PowerUtilities
 {
     public class AssetDatabaseTools
     {

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace PowerUtilities.Min
+namespace PowerUtilities
 {
     public static class MaterialPropCodeGenTools 
     {

@@ -6,7 +6,7 @@ using UnityEngine.UI;
 using System.Linq;
 using UnityEngine.Events;
 
-namespace PowerUtilities.Min
+namespace PowerUtilities
 {
 #if UNITY_EDITOR
     using UnityEditor;

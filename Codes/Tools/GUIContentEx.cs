@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace PowerUtilities.Min
+namespace PowerUtilities
 {
     public static class GUIContentEx
     {
